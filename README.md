@@ -19,3 +19,5 @@ R for 90 degree rotations.
 R for copy an existing buildings rotation when the mouse cursor is over a previously placed building.
 
 This is not a completed project yet.
+
+Download Link: https://mahamat.itch.io/isometric-strategy-game-demo
